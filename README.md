@@ -38,3 +38,5 @@ Open a browser and go to URL
 
     http://<IP>:5000                            => Maligayang pagdating
     http://<IP>:5000/kamusta%20ka%20?           => Mabuti naman, kamusta ka? 
+
+- Inspired by the one that mmumshad created. Take a look to his [repo](https://github.com/mmumshad/simple-webapp-flask)
